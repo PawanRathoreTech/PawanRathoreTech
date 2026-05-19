@@ -12,12 +12,6 @@ Welcome to my GitHub! I'm a **data analytics enthusiast** from Gwalior who loves
 
 ---
 
----
-
-Welcome to my GitHub! I'm a **data analytics enthusiast** from Gwalior who loves building interactive dashboards, automating business reports, and extracting insights that drive real decisions. I turn messy data into clean, visual stories — and I'm always hungry to learn more.
-
----
-
 ## 🛠️ Technologies & Tools
 
 **📊 Analytics & Visualization**
@@ -112,8 +106,8 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PawanRathoreTech&show_icons=true&theme=github_dark&hide_border=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanRathoreTech&layout=compact&theme=github_dark&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PawanRathoreTech&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanRathoreTech&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="155"/>
 </p>
 
 <p align="center">
