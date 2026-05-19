@@ -109,19 +109,21 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PawanRathoreTech&show_icons=true&theme=github_dark&hide_border=true" height="155"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanRathoreTech&layout=compact&theme=github_dark&hide_border=true" height="155"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=PawanRathoreTech&theme=github-dark-blue&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=PawanRathoreTech&theme=github-dark-blue&hide_border=true" height="150"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PawanRathoreTech&label=Profile+Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=PawanRathoreTech&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <p align="center"><em>"Data tells a story — I make sure it's heard."</em> 📊</p>
