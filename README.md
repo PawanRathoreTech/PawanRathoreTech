@@ -3,8 +3,14 @@
 <h3 align="center">📊 Data Analytics Enthusiast | Power BI · Excel · SQL · Python | BCA @ Jiwaji University, Gwalior</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&width=620&lines=📊+Building+dashboards+that+tell+stories;🏅+Deloitte+Data+Analytics+Certified;🚀+Power+BI+%7C+SQL+%7C+Python+%7C+Excel;🐍+Pandas+%7C+Matplotlib+%7C+Seaborn;🎯+Open+to+Data+Analyst+%26+MIS+roles+in+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+dashboards+that+tell+stories;Deloitte+Data+Analytics+Certified;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Pandas+%7C+Matplotlib+%7C+Seaborn;Open+to+Data+Analyst+and+MIS+roles+in+India" alt="Typing SVG" />
 </p>
+
+---
+
+Welcome to my GitHub! I'm a **data analytics enthusiast** from Gwalior who loves building interactive dashboards, automating business reports, and extracting insights that drive real decisions. I turn messy data into clean, visual stories — and I'm always hungry to learn more.
+
+---
 
 ---
 
