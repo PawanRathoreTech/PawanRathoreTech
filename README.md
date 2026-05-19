@@ -63,8 +63,7 @@ Welcome to my GitHub! I'm a **data analytics enthusiast** from Gwalior who loves
 
 - 📊 [Introduction to MS Excel – Simplilearn](./Pawan's%20microsoft%20excel%20certificate.pdf.pdf)
 - 📈 [Power BI for Beginners – Simplilearn](./Power%20bi%20simplilearn%20certificate.pdf.pdf)
-- 🏅 **Deloitte Australia — Data Analytics Job Simulation** · Forage · 2024
-
+- 🏅 [Deloitte Australia – Data Analytics Job Simulation](https://github.com/PawanRathoreTech/Deloitte-Data-Analytics-Virtual-Internship)
 ---
 
 ## 🌟 Let's Connect!
