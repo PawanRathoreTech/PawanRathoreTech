@@ -55,7 +55,7 @@ Welcome to my GitHub! I'm a **data analytics enthusiast** from Gwalior who loves
 
 ## 📜 Certifications
 
-- 📊 [Introduction to MS Excel – Simplilearn](./Pawan's%20microsoft%20excel%20certificate.pdf.pdf)
+- 📊 [Introduction to MS Excel – Simplilearn](./Certificates/Microsoft_Excel_Certificate.pdf)
 - 📈 [Power BI for Beginners – Simplilearn](./Power%20bi%20simplilearn%20certificate.pdf.pdf)
 - 🏅 [Deloitte Australia – Data Analytics Job Simulation](https://github.com/PawanRathoreTech/Deloitte-Data-Analytics-Virtual-Internship)
 - 📊 [Data Analyst 101 – Microsoft & Simplilearn SkillUp](./Data_Analyst_101_Certificate.pdf)
