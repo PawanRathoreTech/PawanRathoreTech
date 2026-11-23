@@ -53,6 +53,16 @@ Welcome to my GitHub! I'm a **data analytics enthusiast** from Gwalior who loves
 
 ---
 
+## 💼 Internship Experience
+
+- **Data Analytics Intern, Oasis Infobyte (AICTE OIB-SIP, Virtual)** | Oct 2026 – Nov 2026
+  - Recognized as a **Star Performer** for exceptional dedication and outstanding contributions
+  - [Completion Certificate](./Certificates/Oasis_Infobyte_Completion_Certificate.pdf) · [Star Performer Certificate](./Certificates/Oasis_Infobyte_Star_Performer_Appreciation%20Certificate.pdf)
+  - Certificate ID: `OIB/O1/IP234` · [Verify here](https://oasisinfobyte.com/validation/verify.html)
+  - [Internship Projects](https://github.com/PawanRathoreTech/OIBSIP)
+
+---
+
 ## 📜 Certifications
 
 - 📊 [Introduction to MS Excel – Simplilearn](./Certificates/Microsoft_Excel_Certificate.pdf)
